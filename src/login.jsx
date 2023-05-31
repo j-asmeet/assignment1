@@ -21,7 +21,7 @@ export function Login (){
       alert("Welcome, You have successfully logged in");
       setEmail('');
       setPassword('');
-      window.location.href="/Home";
+      window.location.href="/home";
       }
       
     };
